@@ -1,0 +1,56 @@
+* {
+
+   background-image: url(../img/daft.png);
+
+}
+
+.algotitmos {
+
+	font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+	border: 2px solid #DA50FF;
+	background-image: url(../img/1080p.jpg);
+	color: #fff;
+	text-align: center;
+	background-color: transparent;
+	height: 575px;
+	width: 545px;
+	margin-left: 675px;
+	margin-top: 175px;
+	padding: 1px;
+	border-radius: 20px;
+	float: left;
+
+}
+
+.algotitmos h1 {
+
+	padding: 20px;
+	font-size: 35px;
+	background-color: transparent;
+	
+}
+
+button {
+
+	background-color: transparent;
+	font-family:  roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+	color: #ffffff;
+	border: 2px solid #30E0FF;
+	font-size: 15px;
+	padding: 15px;
+	width: 200px;
+	margin: 1px 10px;
+	transition: .3s;
+	border-radius: 6px;
+
+}
+
+button:hover {
+
+	color: #fff;
+	background-color: #000;
+	border: 1px solid #FFFF30;
+	border-radius: 15px;
+	cursor: pointer;
+
+}
